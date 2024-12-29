@@ -176,43 +176,20 @@ const someHTML = `
         <div class="websites">
             <div><a class="website" href="https://www.google.com" target="_blank">Google IPv4</a></div>
             <div><a class="website" href="https://ipv6.google.com" target="_blank">Google IPv6</a></div>
-            <div><a class="website" href="https://duckduckgo.com" target="_blank">DuckDuckGo</a></div>
-            <div><a class="website" href="https://www.bing.com" target="_blank">Bing</a></div>
         </div>
         <h3>常用网站</h3>
         <hr>
         <div class="websites">
-            <div><a class="website" href="https://duckduckgo.com/aichat" target="_blank">DuckDuckGo AI Chat</a></div>
             <div><a class="website" href="https://zh.wikipedia.org/" target="_blank">Wikipedia</a></div>
             <div><a class="website" href="https://www.youtube.com/?gl=US" target="_blank">YouTube</a></div>
             <div><a class="website" href="https://x.com/" target="_blank">X / Twitter</a></div>
-            <div><a class="website" href="https://www.apkmirror.com/" target="_blank">APKMirror</a></div>
-            <div><a class="website" href="https://web.telegram.org/" target="_blank">Web Telegram</a></div>
         </div>
         <h3>新闻网站</h3>
         <hr>
         <div class="websites">
             <div><a class="website" href="https://www.voachinese.com/" target="_blank">美国之音</a></div>
             <div><a class="website" href="https://cn.nytimes.com/" target="_blank">纽约时报</a></div>
-            <div><a class="website" href="https://www.reuters.com/" target="_blank">路透社</a></div>
-            <div><a class="website" href="https://cn.wsj.com/" target="_blank">华尔街日报</a></div>
-            <div><a class="website" href="https://www.dw.com/zh/" target="_blank">德国之声</a></div>
-            <div><a class="website" href="https://news.creaders.net/breaking/" target="_blank">万维读者</a></div>
-            <div><a class="website" href="https://udn.com/news/breaknews/" target="_blank">聯合新聞網</a></div>
-            <div><a class="website" href="https://www.rfi.fr/cn/" target="_blank">法国国际广播电台</a></div>
-            <div><a class="website" href="https://cnnews.chosun.com/" target="_blank">朝鲜日报</a></div>
-            <div><a class="website" href="https://std.stheadline.com/" target="_blank">星島日報</a></div>
         </div>
-        <h3>海外论坛</h3>
-        <hr>
-        <div class="websites">
-            <div><a class="website" href="https://www.wenxuecity.com/" target="_blank">文学城</a></div>
-            <div><a class="website" href="https://www.6parknews.com/" target="_blank">留园网</a></div>
-            <div><a class="website" href="https://www.iask.ca/" target="_blank">加拿大家园</a></div>
-        </div>
-        <div class="footer">
-            <p>本站内容源自互联网, 如有内容侵犯了你的权益, 请联系删除相关内容, 联系邮箱: <a href="mailto:netptop@gmail.com">netptop@gmail.com</a></p>
-            <p id="copyright"></p>
         </div>
     </div>
     <script>
